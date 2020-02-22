@@ -1,2 +1,2 @@
-Learn Github
+Learn Github and create a sample repository
 and intelij
